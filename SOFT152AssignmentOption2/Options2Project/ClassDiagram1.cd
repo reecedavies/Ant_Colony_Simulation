@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SOFT152Steering.AntFoodForm">
+    <Position X="0.5" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAVMkAAQBGgAJFAEgBSRBACCAAAwEiZBQCRAQAAAQIA=</HashCode>
+      <FileName>AntFoodForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOFT152Steering.AntAgent">
+    <Position X="5.25" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>CBAAAEgoAIBAYAAACAAAAABAAgAgAAAQAAAACAQBAAk=</HashCode>
+      <FileName>AntAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOFT152Steering.RobberAntAgent">
+    <Position X="10.25" Y="0.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>DBAAAEgoAIBAYAAACAAAAABAAgAgAAgQAAAACAQBAAk=</HashCode>
+      <FileName>RobberAntAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SteeringProject.Nest">
+    <Position X="15.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SteeringProject.RobberNest">
+    <Position X="15.75" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RobberNest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SteeringProject.Food">
+    <Position X="15.75" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
